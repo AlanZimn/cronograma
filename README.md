@@ -23,7 +23,9 @@ Oferecer um menu de opções para facilitar a interação.
 - Etapa 3: Implementar a funcionalidade de excluir tarefas.
 - Etapa 4: Testar o programa e corrigir possíveis erros.
 
-  Processo de desenvolvimento e dificuldades:
+  
+
+Processo de desenvolvimento e dificuldades:
 
 - Primeiro, criei um repositório no GitHub e configurei ele no VSCode para tudo ficar sincronizado.
  
