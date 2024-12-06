@@ -32,7 +32,7 @@ Oferecer um menu de opções para facilitar a interação.
 
 - E no fim, o GitHub foi tipo meu backup e uma forma de acompanhar a evolução do projeto, além de deixar ele lá bonitinho pra mostrar pra quem quiser ver.
 
-- A minha maior dificuldade foi decorar os códigos que tinham que adicionar no terminar, um exemplo, 
+- A minha maior dificuldade foi decorar os códigos que tinham que adicionar no terminar, alguns exemplos é: git commit -m "first commit", git branch -M main, git push -u origin main, sempre que eu precisava usar eu precisava pesquisar como éra.
 
 
 
