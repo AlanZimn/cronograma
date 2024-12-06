@@ -1,5 +1,4 @@
-﻿ cronograma
- Cronograma Automatizado
+﻿ Cronograma Automatizado
 
 Este projeto é um script simples em Python para ajudar a organizar e gerenciar tarefas em um cronograma. Ele permite que o usuário adicione, visualize e exclua tarefas, além de mostrar um menu interativo para facilitar a navegação.
 
